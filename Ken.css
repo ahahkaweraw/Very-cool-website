@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to top, rgb(88, 0, 0), rgb(231, 42, 42));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#heading{
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    text-shadow: 0px 0px 5px rgb(78, 81, 230);
+}
+
+#subheading{
+    color: rgb(100, 129, 255);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+p{
+    color: rgb(81, 182, 240);
+    background: linear-gradient(to right, rgb(1, 1, 92), rgb(45, 107, 201));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+a{
+    color: white;
+}
